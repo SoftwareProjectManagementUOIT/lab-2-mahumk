@@ -1,6 +1,6 @@
 <h1>Software Project Management Lab 2 </h1>
 
-<h2>Group Members</h2>
+<h3>Group Members</h3>
 
 Craig Savage 100615968  
 Walid Safi	100623815  
