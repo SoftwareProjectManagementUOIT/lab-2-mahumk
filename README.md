@@ -2,7 +2,7 @@
 
 
 
-Group |  Members
+Group Members |  ID
 ------------ | -------------
 Craig Savage | 100615968
 Walid Safi | 100623815
